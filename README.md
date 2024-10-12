@@ -4,7 +4,7 @@
 
 #### Team Name: Powerpuff Girls    
   
-#### Your teamâ€™s hackathon idea in One sentence:
+#### Your team's hackathon idea in One sentence:
 ##### SIR Informed Neural Network for Predicting Growth/Spread of COVID-19 in Regions of California, with Risk Analysis for Future Outbreaks.
 
 
